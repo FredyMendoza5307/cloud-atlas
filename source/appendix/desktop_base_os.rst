@@ -64,7 +64,7 @@ Budgie
 尝试过选择 `budgie <https://ubuntubudgie.org>`_ :
 
 - 在Gnome基础上做了精简，舍弃了Gnome shell，但是能够兼容运行Gnome程序
-- 界面采用平面化设计，吸收了Android的设计理念，非常雅致；支持类似macOS的dark theme
+- 界面采用平面化设计，吸收了Android的设计理念，非常雅致；支持类似macOS的dark theme.
 - 占用内存较少，我采用mini安装（默认只安装Firefox浏览器），初始安装启动后内存占用只有不到700M
 
 .. note::
